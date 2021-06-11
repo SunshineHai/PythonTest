@@ -1,2 +1,2 @@
 # PythonTest
-学习python的一些测试样例
+学习python的一些测试代码
